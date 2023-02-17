@@ -1,0 +1,6 @@
+applicationName: "UI示例"
+applicationLogo: "/images/logo.png"
+applicationViewsPackage: "com.schenchi.ems.views"
+fullScreen: false
+windowWidth: 1120
+windowHeight: 700

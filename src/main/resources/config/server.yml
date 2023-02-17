@@ -1,0 +1,8 @@
+# 地址服务
+service: "http://127.0.0.1:3000"
+# 上传服务
+uploadService: 'http://127.0.0.1:3000/file/upload'
+# 下载服务
+downloadService: 'http://127.0.0.1:3000/file/download'
+# 上传鉴权码
+authentication: '5AOUU894nxEhWrdU'
